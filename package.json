@@ -1,0 +1,17 @@
+{
+  "name": "syook-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {"test": "cucumber-js --require step-definitions/**/*.js --require support/**/*.js"},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.1.0",
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.1",
+    "chai": "^5.2.1"
+  }
+}
+
