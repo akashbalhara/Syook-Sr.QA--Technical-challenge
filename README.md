@@ -38,10 +38,8 @@ project-root/
 ---
 
 ##  Prerequisites
-- **Node.js**: v14+ (recommend LTS)
 - **npm**: comes with Node.js
 - **Git**: for version control
-- Internet connection to access application under test
 
 ---
 
